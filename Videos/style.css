@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(238, 146, 25);
+    text-align: center;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+a {
+    color:rgba(255, 255, 255, 0.815);
+}
+
+body{
+    background-color: rgb(17, 122, 163);
+    /* background-image: url(https://i.pinimg.com/originals/a4/f2/ca/a4f2cacc725def21b2f4eef5b3fe3132.gif); */
+    background-image: linear-gradient(to right, orange,green,black,blue,violet);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:top;
+    background-attachment: fixed;
+}           
