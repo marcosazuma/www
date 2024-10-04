@@ -1,22 +1,30 @@
 h1 {
-    color:rgb(238, 146, 25);
-    text-align: center;
     font-size: 40px;
-    margin-left: 100px;
-    margin-top: 50px;
-
 }
 
 a {
-    color:rgba(255, 255, 255, 0.815);
+    color:rgb(154, 158, 171);
 }
 
 body{
-    background-color: rgb(17, 122, 163);
+    background-color: #4257AE;
     /* background-image: url(https://i.pinimg.com/originals/a4/f2/ca/a4f2cacc725def21b2f4eef5b3fe3132.gif); */
-    background-image: linear-gradient(to right, orange,green,black,blue,violet);
     background-repeat:no-repeat;
     background-size:cover;
     background-position:top;
     background-attachment: fixed;
-}           
+}
+
+.inicio{
+    background-color:rgb(41, 64, 75);
+    border: 3px solid #071138;
+    border-radius: 30px;
+    width: 500px;
+}
+
+.lista{
+    background-color: #2D2E33;
+    width: 200px;
+    border: 2px solid #071138;
+    border-radius: 30px;
+}
